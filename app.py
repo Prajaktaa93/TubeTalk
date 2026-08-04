@@ -5,9 +5,9 @@ import yt_dlp
 import time
 
 # --- RAG IMPORTS ---
-from langchain.text_splitter import RecursiveCharacterTextSplitter  # type: ignore
+from langchain_text_splitters import RecursiveCharacterTextSplitter  # type: ignore
 from langchain_community.vectorstores import FAISS  # type: ignore
-from langchain.docstore.document import Document  # type: ignore
+from langchain_core.documents import Document  # type: ignore
 from langchain_community.embeddings import HuggingFaceEmbeddings  # type: ignore
 
 
