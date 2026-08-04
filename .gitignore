@@ -6,6 +6,7 @@ __pycache__/
 venv/
 .env
 .DS_Store
+.streamlit/secrets.toml
 
 # Temporary files
 temp_audio.mp3

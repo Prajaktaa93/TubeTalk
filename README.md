@@ -51,11 +51,11 @@ Set up API Keys
 
 Create a .env file in the root folder.
 
-Add your Google API Key: AIzaSyBpJNB1EHwFe92n9kjC6vOL8-qt8pUYocE
+Add your Google API Key: GEMINI_API_KEY=your_key_here
 
 Run the App
 
 streamlit run app.py
 
 
-Built using Python.
+Built with ❤️ using Python.
